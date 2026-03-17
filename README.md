@@ -17,7 +17,7 @@
   <i>Build systems. Threat-model everything. Ship with intent.</i>
 </p>
 <p align="center">
-  <a href="https://hackenproof.com/hackers/0xTonraq">HackenProof</a>
+  <a href="https://hackenproof.com/hackers/0xTonraq">My HackenProof Profile</a>
   ·
   <a href="https://github.com/HeySomtee?tab=repositories">Repositories</a>
 </p>
