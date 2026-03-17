@@ -27,6 +27,7 @@
 - 🛡️ **Top 10 (all‑time)** on **HackenProof** bug bounty platform
 - 🔎 I like problems where the **threat model** is as important as the product
 ---
+
 ## \[0x02\] Capabilities
 ### Full-stack
 - Frontend delivery with **Tailwind CSS** / **Bootstrap**
@@ -40,6 +41,7 @@
   - Integration risks (routers, oracles, upgradeability)
   - Economic / incentive attacks
 ---
+
 ## \[0x03\] Toolchain
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B0F14?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -55,6 +57,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0B0F14?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 </p>
 ---
+
 ## \[0x04\] Public work (high signal)
 > I rotate pins as projects evolve. A few themes you’ll see across my public repos:
 - ⚙️ Full-stack product builds (UI → API → DB)
