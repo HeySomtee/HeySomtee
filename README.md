@@ -66,8 +66,3 @@
 - **Secure-by-default** choices > quick fixes
 - Crisp interfaces, minimal footguns, clear docs
 - Ship → observe → harden → iterate
----
-<details>
-<summary><b>\[optional\] Tailor this README</b></summary>
-If you tell me the role you’re optimizing for (full-stack vs security) and the targets (startup, protocol team, auditing firm), I’ll tune the narrative and add a featured-project grid.
-</details>
