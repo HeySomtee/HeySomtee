@@ -22,6 +22,7 @@
   <a href="https://github.com/HeySomtee?tab=repositories">Repositories</a>
 </p>
 ---
+
 ## \[0x01\] Signal
 - 🎓 **B.Sc. Computer Science**
 - 🛡️ **Top 10 (all‑time)** on **HackenProof** bug bounty platform
