@@ -1,85 +1,100 @@
-# Hey, I’m Somtee (HeySomtee)
+<!-- Profile README for HeySomtee/HeySomtee -->
+
+<p align="center">
+  <pre>
+   ____                        __           
+  / __ \____  ____  ___  _____/ /____  _____
+ / / / / __ \/ __ \/ _ \/ ___/ __/ _ \/ ___/
+/ /_/ / /_/ / /_/ /  __/ /__/ /_/  __/ /    
+\____/ .___/ .___/\___/\___/\__/\___/_/     
+    /_/   /_/                                 
+  </pre>
+</p>
+
+<h1 align="center">Somtee · @HeySomtee</h1>
 
 <p align="center">
   <b>Full-stack Engineer</b> · <b>Blockchain Security Researcher</b>
 </p>
 
 <p align="center">
-  <i>Building production-grade web apps and breaking smart contracts (ethically) before they break users.</i>
+  <i>Build systems. Threat-model everything. Ship with intent.</i>
+</p>
+
+<p align="center">
+  <a href="https://hackenproof.com/hackers/0xTonraq">HackenProof</a>
+  ·
+  <a href="https://github.com/HeySomtee?tab=repositories">Repositories</a>
 </p>
 
 ---
 
-## Snapshot
+## \[0x01\] Signal
 
 - 🎓 **B.Sc. Computer Science**
-- 🛡️ **Top 10 (all‑time)** on HackenProof bug bounty platform
-- 🧰 **Stack:** JS/TS, Solidity, Move, MongoDB, SQL, Tailwind, Bootstrap, PHP
-
-**HackenProof:** https://hackenproof.com/hackers/0xTonraq
+- 🛡️ **Top 10 (all‑time)** on **HackenProof** bug bounty platform
+- 🔎 I like problems where the **threat model** is as important as the product
 
 ---
 
-## What I do
+## \[0x02\] Capabilities
 
-### Full-stack engineering
-- Ship responsive UI with **Tailwind CSS** / **Bootstrap**
-- Build APIs & services with **JavaScript / TypeScript** (and **PHP** when it fits)
-- Data design & integration with **MongoDB** and **SQL**
+### Full-stack
+- Frontend delivery with **Tailwind CSS** / **Bootstrap**
+- Backend services in **JavaScript / TypeScript** (and **PHP** when it fits)
+- Data work with **MongoDB** and **SQL**
 
-### Blockchain security & smart contract engineering
-- Write/review **Solidity** contracts
-- Explore **Move** ecosystems
-- Typical focus: access control, authz mistakes, state bugs, reentrancy, integration risks, and economic design issues
-
----
-
-## Tech stack (with badges)
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Move](https://img.shields.io/badge/Move-000000?style=for-the-badge&logo=move&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
-### Styling / UI
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Blockchain security
+- Smart contract engineering & review (**Solidity**, **Move**)
+- Focus areas:
+  - Access control / authz
+  - State consistency & reentrancy patterns
+  - Integration risks (routers, oracles, upgradeability)
+  - Economic / incentive attacks
 
 ---
 
-## Selected public work
+## \[0x03\] Toolchain
 
-A few repos from my public GitHub (I rotate pins as projects evolve):
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B0F14?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B0F14?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-0B0F14?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img alt="Move" src="https://img.shields.io/badge/Move-0B0F14?style=for-the-badge&logo=move&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-0B0F14?style=for-the-badge&logo=php&logoColor=777BB4" />
+</p>
 
-- **pacifica-trading-bot** — trading automation & experiments
-- **Pump-Portal** — portal project (web3 / Solana)
-- **FIGHT-SOL** — Solana-related project
-- **designer-portfolio** — portfolio-style web project
-- **xNFT--backpack** — xNFT / Backpack exploration
-- **product-management-mobile-app** / **product-management-react-native-app** — product management apps
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0B0F14?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0B0F14?style=for-the-badge&logo=database&logoColor=9CA3AF" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0B0F14?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0B0F14?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+</p>
 
 ---
 
-## Principles
+## \[0x04\] Public work (high signal)
 
-- **Security-first** engineering, even when moving fast
-- Clear communication, clean interfaces, measurable outcomes
-- I like projects where the threat model is as important as the product
+> I rotate pins as projects evolve. A few themes you’ll see across my public repos:
+
+- ⚙️ Full-stack product builds (UI → API → DB)
+- ⛓️ Web3 tooling & experiments (EVM/Solana)
+- 🤖 Automation & bots
+- 🧪 Security research / PoCs (when public & responsible)
+
+---
+
+## \[0x05\] Operating principles
+
+- **Secure-by-default** choices > quick fixes
+- Crisp interfaces, minimal footguns, clear docs
+- Ship → observe → harden → iterate
 
 ---
 
 <details>
-<summary><b>Want a tailored version?</b></summary>
+<summary><b>\[optional\] Tailor this README</b></summary>
 
-If you tell me the role you’re applying for (full-stack vs security) and the kinds of companies you’re targeting, I can tune this README to match—without adding fluff.
+If you tell me the role you’re optimizing for (full-stack vs security) and the targets (startup, protocol team, auditing firm), I’ll tune the narrative and add a featured-project grid.
 
 </details>
